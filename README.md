@@ -72,7 +72,7 @@ To make the plots just run:
 its not necessary run getDataSet()
 
 
-##The four plots that I  construct are shown below. 
+## The four plots that I  construct are shown below. 
 
 ### Plot 1
 
